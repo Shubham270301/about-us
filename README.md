@@ -1,2 +1,2 @@
-# know-us
+# About-us
 The intro pro space of OpenSquads heads......
