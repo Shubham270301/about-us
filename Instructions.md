@@ -27,6 +27,19 @@ Thank you for your interest in contributing to our OpenSquad Community!
   </ol>
 
 ## How to Contribute
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
+
+How to contribute:
+
+1.  Fork the repo
+2.  Create a new branch (`git checkout -b my-new-feature`)
+3.  Commit your changes (`git commit -am 'Added some feature'`)
+4.  Push to the branch (`git push origin my-new-feature`)
+5.  Create new Pull Request
 
 ## Reporting Bugs
 
