@@ -7,27 +7,40 @@ Thank you for your interest in contributing to our OpenSquad Community!
 
   <ol>
     <ul>
-       <li><a href="#How To Contribute">Intro</a></li>
+       <li><a href="#How To Contribute">How To Contribute</a></li>
     </ul>
     <ul>
-       <li><a href="#Reporting Bugs">Projects</a></li>
+       <li><a href="#Reporting Bugs">Reporting Bugs</a></li>
     </ul>
     <ul>
-       <li><a href="#Suggesting Enhancements">Repositories</a></li>
+       <li><a href="#Suggesting Enhancements">Suggesting Enhancements</a></li>
     </ul>
     <ul>
-       <li><a href="#Submitting Pull Requests">join</a></li>
+       <li><a href="#Submitting Pull Requests">Submitting Pull Requests</a></li>
     </ul>
     <ul>
-       <li><a href="#Coding Conventions">Contact</a></li>
+       <li><a href="#Coding Conventions">Coding Conventions</a></li>
     </ul>
     <ul>
-       <li><a href="#License">Contact</a></li>
+       <li><a href="#License">License</a></li>
     </ul>
   </ol>
 
 ## How to Contribute
 
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
+
+How to contribute:
+
+1.  Fork the repo
+2.  Create a new branch (`git checkout -b my-new-feature`)
+3.  Commit your changes (`git commit -am 'Added some feature'`)
+4.  Push to the branch (`git push origin my-new-feature`)
+5.  Create new Pull Request
 ## Reporting Bugs
 
 When creating a bug report, please include as much detail as possible, including:
