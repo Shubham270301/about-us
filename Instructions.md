@@ -7,22 +7,22 @@ Thank you for your interest in contributing to our OpenSquad Community!
 
   <ol>
     <ul>
-       <li><a href="#How To Contribute">Intro</a></li>
+       <li><a href="#How To Contribute">How To Contribute</a></li>
     </ul>
     <ul>
-       <li><a href="#Reporting Bugs">Projects</a></li>
+       <li><a href="#Reporting Bugs">Reporting Bugs</a></li>
     </ul>
     <ul>
-       <li><a href="#Suggesting Enhancements">Repositories</a></li>
+       <li><a href="#Suggesting Enhancements">Suggesting Enhancements</a></li>
     </ul>
     <ul>
-       <li><a href="#Submitting Pull Requests">join</a></li>
+       <li><a href="#Submitting Pull Requests">Submitting Pull Requests</a></li>
     </ul>
     <ul>
-       <li><a href="#Coding Conventions">Contact</a></li>
+       <li><a href="#Coding Conventions">Coding Conventions</a></li>
     </ul>
     <ul>
-       <li><a href="#License">Contact</a></li>
+       <li><a href="#License">License</a></li>
     </ul>
   </ol>
 
